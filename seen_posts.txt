@@ -6976,3 +6976,5 @@ t3_1x24vnk
 t3_1x24rip
 t3_1x25bhv
 t3_1x26s48
+t3_1x27ggn
+t3_1x27964
